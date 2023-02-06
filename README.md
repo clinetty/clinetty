@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![Header Image](https://media.licdn.com/dms/image/D4D16AQH_UeIbS84nJg/profile-displaybackgroundimage-shrink_350_1400/0/1674751137654?e=1681344000&v=beta&t=_3vkO4J5k6pGcY359lKlWBDG6bTD7pMBZxJcpAkpQeA)
 
-#I'm Clinton Ogechi
+# I'm Clinton Ogechi
 
-##Android Developer
+## Android Developer
 
 Flutter | Dart
 
