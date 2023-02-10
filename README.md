@@ -8,7 +8,7 @@
 - 🌱 I’m a tech enthusiast.
 - 👯 I’m looking to collaborate on any open source projects and innovative ideas.
 - 📫 Feel free to connect with: 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 - Twitter https://twitter.com/Clin_tt and Linkedin https://www.linkedin.com/in/clinton-ogechi-390736135/
 
