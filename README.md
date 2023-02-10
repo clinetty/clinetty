@@ -1,10 +1,12 @@
-![Header Image](https://media.licdn.com/dms/image/D4D16AQH_UeIbS84nJg/profile-displaybackgroundimage-shrink_350_1400/0/1674751137654?e=1681344000&v=beta&t=_3vkO4J5k6pGcY359lKlWBDG6bTD7pMBZxJcpAkpQeA)
+## I'm Clinton Ogechi. 
 
-## Hi👋 I'm Clinton Ogechi. 
+## Hi There👋 
 
-### Android Developer
+### I'm a Mobile App Developer
 
-- 🔭 I’m a mobile app developer.
+## About me 
+
+- 🔭 Dart | Flutter
 - 🌱 I’m a tech enthusiast.
 - 👯 I’m looking to collaborate on any open source projects and innovative ideas.
 - 📫 Feel free to connect with me: 
