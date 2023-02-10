@@ -2,7 +2,7 @@
 
 ### Hi There👋 
 
-## I'm a Mobile App Developer
+I'm a Mobile App Developer
 
 ### About me 
 
