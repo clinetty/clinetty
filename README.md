@@ -1,6 +1,6 @@
 ## Clinton Ogechi. 
 
-### Hi There👋  
+### Hi There👋 <hr>
 
 I'm a Mobile App Developer
 
@@ -9,7 +9,7 @@ I'm a Mobile App Developer
 - 🔭 Dart | Flutter
 - 🌱 I’m a tech enthusiast.
 - 👯 I’m looking to collaborate on any open source projects and innovative ideas.
-- 📫 Feel free to connect with me: 
+- 📫 Feel free to connect with me: <br>
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Language Stack
