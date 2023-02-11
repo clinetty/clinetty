@@ -1,6 +1,6 @@
 ## Clinton Ogechi
 
-## Hi There👋      
+### Hi There👋      
 
 I'm a Mobile App Developer   
 
