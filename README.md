@@ -2,11 +2,10 @@
 
 ## Hi There👋      
 
-I'm a Mobile App Developer   
+I'm a Web Developer & Cybersecurity Analyst 
 
-## About me    
+## About me  
 
-- 🔭 Dart | Flutter
 - 🌱 I’m a tech enthusiast.
 - 👯 I’m looking to collaborate on any open source projects and innovative ideas.
 - 📫 Feel free to connect with me:
@@ -16,6 +15,6 @@ I'm a Mobile App Developer
 
 ### Language Stack
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,linux,bash,html,css,bootstrap,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,html,css,bootstrap,aws)](https://skillicons.dev)
 
 
