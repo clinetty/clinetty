@@ -1,10 +1,9 @@
-### Clinton Ogechi
-
 ### Hi There👋      
 
-Professionl Summary: I'm a Junior DevOps and Cloud Engineer with a solid foundation in cloud computing, automation, and infrastructure management. Skilled in tools like Docker, Kubernetes, Jenkins, and AWS to streamline deployment processes and enhance system reliability.
+#### Professionl Summary: 
+- I'm a Junior DevOps and Cloud Engineer with a solid foundation in cloud computing, automation, and infrastructure management. Skilled in tools like Docker, Kubernetes, Jenkins, and AWS to streamline deployment processes and enhance system reliability.
 
-### Key Skills  
+#### Key Skills  
 
 - Cloud Platforms: AWS, Azure.
 - CI/CD: Jenkins, GitHub Actions.
@@ -14,11 +13,11 @@ Professionl Summary: I'm a Junior DevOps and Cloud Engineer with a solid foundat
 - Scripting: Shell, Python.
 - Other tools: Nginx, GitHub.
 
-### Certifications:
+#### Certifications:
 
 🥇 AWS Cloud Certified Practioner
 
-### Contact:
+#### Contact:
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 #### Language Stack
