@@ -1,7 +1,7 @@
 ### Hi There👋      
 
 #### Professionl Summary: 
-- I'm a Junior DevOps and Cloud Engineer with a solid foundation in cloud computing, automation, and infrastructure management. Skilled in tools like Docker, Kubernetes, Jenkins, and AWS to streamline deployment processes and enhance system reliability.
+- I'm a DevOps Enthusiast and AWS Cloud Practitioner with a solid foundation in cloud computing, automation, and infrastructure management. Skilled in tools like Docker, Kubernetes, Jenkins, and AWS to streamline deployment processes and enhance system reliability.
 
 #### Key Skills:
 
